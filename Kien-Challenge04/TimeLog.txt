@@ -1,0 +1,7 @@
+Kien Nguyen Time Log
+
+2-11-23: Getting started with Unity, learning how to set it up, finding tutorials that are similar to our project and brainstorming ideas (2 hrs)
+2-12-23: Loading in all of the assets from the tutorial and begin making game, got to background, player movement (left and right), and the camera (3 hrs)
+2-18-23: Brainstorm ideas on the basics and story of the game. We want to build around an idea of a cyberpunk metroidvania game (1 hr)
+2-23-23: Worked on animations, for idle, walk, run and built a ground tileset for the map (3 hrs)
+3-4-23: Worked on ground and air states, making it easier to animate and know when the player jumps, in the air, touching wall, etc. (2 hrs)
