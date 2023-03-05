@@ -1,0 +1,8 @@
+Gabe Lapham
+CS302 Final Time Log
+
+2-15-23 - Began following Unity tutorials to get familiar with the software (2 hrs)
+2-16-23 - Continuation of yesterday, learned collision (1 hr)
+2-17-23 - Worked on tutorial project in lab, successfully implemented some player animations (2 hrs)
+2-19-23 - Completed scripts for jumping/falling animations, still needs some tweaking for smoother animation (2 hrs)
+2-21-23 - Began foreground/background familiarity and creating tile sheet to work from (2 hr)

@@ -1,0 +1,14 @@
+Gabe Lapham
+2/17/2023
+Project2 Report
+
+Group Members: Will Duff and Triton Eden
+- We all worked on stl and qsort together
+- I finished the stl and qsort, and fixed it from having a new, unnecessary list
+- Triton and Will worked on quick sort and merge
+- Triton finished up with the benchmark requirements
+
+Overall we worked well as a team, and it's nice to work together at one time
+on the same laptop to collaborate on the same problem at once. We didn't break
+up each sorting algorithm between each other too much, only when we needed to
+fix or make one of them better.
