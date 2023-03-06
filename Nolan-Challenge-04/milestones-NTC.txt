@@ -1,0 +1,14 @@
+milestones-NTC.txt
+Nolan Coffey
+2-15-23
+
+The current idea is to create a 2D platformer in Unity.
+
+Rubric:
+
+20 pts. the game is in a playable state
+5 pts. the game has a clear creative direction and theme
+5 pts. the art and/or music reflects this theme
+10 pts. discretionary
+----
+40 pts
