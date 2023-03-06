@@ -1,0 +1,9 @@
+Nolan Coffey
+CS 302 Final Project Timelog
+
+2-12-23: Downloaded Unity and completed the included basic 2d Platformer Tutorial. (1 hour)
+2-18-23: Brainstorming story concepts and setting ideas. Cyberpunk themed Metroidvania. (1 hour)
+2-27-23: Gained familiarity with the Unity interface and Asset store. Downloaded free 2D game assets to follow along a tutorial. (1 hour)
+3-6-23: Learned: how to create a tile palette, add collision to tilemaps, make idle animation, basics of c#, 
+left and right character movement, change character sprite directions, running animations. (4 hours)
+
