@@ -1,0 +1,6 @@
+Triton Eden
+CS 302 Final Project Timelog
+
+2/10/23: Setup Unity (1 hour)
+2/18/23: Brainstormed with team, we decided on a cyberpunk themed Metroidvania. (1 hour)
+3/3-5/23: Worked through unity tutorials to understand basic tile pallets, collider, animations, and player movement. (4 hours)
